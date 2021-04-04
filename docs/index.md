@@ -3,7 +3,7 @@ layout: cv
 title: Chris Soares' Resume
 ---
 # Chris Soares
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Software Engineering Graduate
 
 <div id="webaddress">
 <a href="christophermatheus@gmail.com">christophermatheus@gmail.com</a>
