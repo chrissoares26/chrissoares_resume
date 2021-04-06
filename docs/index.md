@@ -46,7 +46,7 @@ __Senior Sales Pro__, Vivint Smart Home, Provo
 
 
 `2012-2014`
-__Full-time Volunteer Representative__, The Church of Jesus Chris of Latter-Day Saints, Porto Alegre, Brazil
+__Full-time Volunteer Representative__, The Church of Jesus Christ of Latter-Day Saints, Porto Alegre, Brazil
 
 
 
