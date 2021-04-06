@@ -41,12 +41,12 @@ __One Click Services__, Draper, UT
 
 ## Service and Work History
 
-`2019-202`
-__Senior Sales Pro__, Vivint Smart Home
+`2019-2020`
+__Senior Sales Pro__, Vivint Smart Home, Provo
 
 
-`2023-2025`
-__Service Missionary__, Porto Alegre North Mission, Brazil
+`2012-2014`
+__Full-time Volunteer Representative__, The Church of Jesus Chris of Latter-Day Saints, Porto Alegre, Brazil
 
 
 
