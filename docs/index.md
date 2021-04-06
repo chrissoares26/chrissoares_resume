@@ -26,26 +26,28 @@ __LDS Business College__, Salt Lake City, UT
 
 - Accounting Associate Degree with a 4.0 GPA
 
+## Tools
+
 
 ## Related Experience
 
 ### Internships
 
 `August 2020 - April 2021`
-__One Click Services__, Draper, UT
+__One Click Services__, Front-End Developer, Draper, UT
 
-- Responsible for creating the responsive website for the company
-- Handled the operations of the company
-- Integrated CRM with text message app.
+- Responsible for creating a responsive website for the company that helped increase the company sales in 73% and was a way of collecting leads.
+- Increased business sales by building automated marketing campaings using Facebook, Google Adwords, and automated text applications.
+- 
 
 
 ## Service and Work History
 
-`2019-2020`
+`April 2019-April 2020`
 __Senior Sales Pro__, Vivint Smart Home, Provo
 
 
-`2012-2014`
+`October 2012-October 2014`
 __Full-time Volunteer Representative__, The Church of Jesus Christ of Latter-Day Saints, Porto Alegre, Brazil
 
 
