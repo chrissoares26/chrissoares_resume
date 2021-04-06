@@ -15,22 +15,22 @@ Software Engineering Graduate
 
 ## Education
 
-`2017-2019`
+`Expected December 2021`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- BS, Software Engineering
+
+`April 2017-April 2019`
 __LDS Business College__, Salt Lake City, UT
 
 - Accounting Associate Degree with a 4.0 GPA
-
-`Expected 2021`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- Software Engineering
 
 
 ## Related Experience
 
 ### Internships
 
-`January August 2020 - April 2021`
+`August 2020 - April 2021`
 __One Click Services__, Draper, UT
 
 - Responsible for creating the responsive website for the company
