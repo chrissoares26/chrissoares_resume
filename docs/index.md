@@ -19,6 +19,7 @@ Software Engineering Graduate
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - BS, Software Engineering
+- Web Development Certificate
 
 `April 2017-April 2019`
 __LDS Business College__, Salt Lake City, UT
