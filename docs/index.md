@@ -27,10 +27,10 @@ __LDS Business College__, Salt Lake City, UT
 - Accounting Associate Degree with a 4.0 GPA
 
 ## Abilities
-*Python
-*SQL
-*HTML
-*CSS
+- __Python__
+- __SQL__
+- __HTML__
+- __CSS__
 
 
 ## Related Experience
